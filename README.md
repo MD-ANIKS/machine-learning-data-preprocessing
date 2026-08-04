@@ -16,7 +16,7 @@ This project walks through the complete preprocessing pipeline that is typically
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -125,7 +125,7 @@ Through this project I practiced:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 machine-learning-data-preprocessing/
@@ -137,7 +137,7 @@ machine-learning-data-preprocessing/
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Train Machine Learning models
 - Model evaluation
